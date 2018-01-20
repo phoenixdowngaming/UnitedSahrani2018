@@ -1,0 +1,24 @@
+At 09:00 hours this morning, the U.S. Ambassador to United Sahrani (Robert Hale) opened a summit with the leaders of United Sahrani and the Sierra Masbete Rebels.
+The Rebels claim ancestral ownership of large portions of the Northern portion of the province.  The goal of the summit was to broker a piece treaty between the two factions.
+
+Around 16:00 hours we received word that the talks had failed to produce any results and the delegates were breaking for the day.  At 16:08 we received a report
+of shots fired in the compound were the summit was being held. The Ambassador was safely evacuated to the Embassy compound but we have lost contact since.
+
+Since then we have received a steady stream of reports from across the entire province that order has broken down and the streets have become a battlezone
+of fighting between the Sierra Masbete Rebels and the United Sahrani forces.  It now appears to be all out war between the two sides.
+
+
+Objective:  Extract the Ambassador from the compound
+U.S. Mission Compound - 140076
+
+Rules of Engagement:  Do no fire unless fired upon.  We must do what it takes to get the Ambassador out alive but our goal is to stay neutral in the conflict.
+Sierra Masbete Rebels have claimed the land east of Pico de Revolucion and Eponia
+United Sahrani forces composed of mobilized infantry and light armor are moving North to Bagango from Corazol and Obregon in the South.
+All factions are known to possess hand-held surface to air (AA) capability.
+
+Additional Notes:
+Initial spawn point is FSB Phoenix.
+First person enforced in everything but air vehicles
+All vehicles in bases respawn automatically.
+Don't jump into a Medic or Engineer slot unless that is your role.
+Medical vehicles are marked with the red cross.

@@ -1,0 +1,6 @@
+enableDebugConsole = 1;
+ShowGPS = 0;
+respawn = "BASE";
+respawnOnStart = 1;
+disabledAI = 1;
+loadScreen = "loading.jpg";
